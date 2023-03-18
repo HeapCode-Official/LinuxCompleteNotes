@@ -1,0 +1,50 @@
+Linux v/s Windows OS
+---------------------
+1.
+Linux is a open source operating system.
+While windows are the not the open source operating system.
+
+
+2.
+Linux is free of cost windows costly 
+
+
+3. 
+Linux uses monolithic kernel
+while windows uses micro kernel 
+
+4. 
+Linux provides more security than windows.
+
+
+5.
+There are 3 types of user accounts in Linux
+(1) Regular , (2) Root , (3) Service account
+
+There are 4 types of user account in windows
+(1) Administrator , (2) Standard , (3) Child , (4) Guest
+
+
+6.
+Root user is the super user and has all administrative privileges in Linux.
+Administrator user has all administrative privileges of computers in windows.
+
+
+
+=> in windows we have .exe file , can be affetcted by vurus
+  need additional antivirus.
+  in linux we have
+  .rpm (red hat package manager) /.deb files  does not affected by virus
+  entirely different file system,no need of antivirus.
+
+
+=>windows OS purchase license, but linux no(free)
+CEntos(free)
+RHEL free but subscription charge,cheap only
+nad subc. charge because RHEL provide support
+any problem with ur server they will help you
+
+=>windows closed source
+Linux open source, we can see source code and
+modify and can have a new release OS.
+300+ linux flavours/versions/distributions.

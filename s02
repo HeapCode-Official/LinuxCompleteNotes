@@ -1,0 +1,67 @@
+Session:: 02
+------------
+
+Where do we use Linux in Today's World?
+
+
+a)
+In initial days in a company we had bare metal servers, they managed it and then they used it.
+
+   what is a physical server?
+   - A physical server, also known as a bare-metal server, is a hardwre server consisting of a cpu, memory, storage, and other internal hardware components 
+   contianed in a physical case. It also has an Operating System(OS) for running applications.
+
+
+   Disadvantages of physical servers:
+   ----------------------------------
+   >Relatively High cost
+   >Your IT staff will be responsible for setup, configuration, and maintainenace.
+   >you may need to hire a contractor or vendor for help if you have  any difficulty with configuration or repairs.
+   >you cannot scale storage in smalll increments once you have reach the maximum workload since you purchased and own the hardware.
+   >Requires physical or colocation space.
+
+
+b) as a solution came next datacentre.
+      
+      Data  Centers contain physical or virtual servers that are connected internally and externally through networking and communication equipm
+      
+      Data  Centers contain physical or virtual servers that are connected internally and externally through networking and communication equipment to store , transfer and
+      access digital information. Each server has a processor, Storage space and memory, similar to a personal computer but with more power.
+
+
+      -lots of servers at one place.
+      ex:: google datacenter 
+           IBM DataCentre
+
+How does this work:
+ for ex:: They will launch virtual server for us/our company.
+  and using internet and vpn we can get access 
+  to it.(mananges downtimes, backup,etc....)
+  -but this also ha some dis-advantage.
+                      -any disturbance/wrong contanct service provider.
+
+
+
+c) best solution
+Cloud env.
+ex:: Aws, azure 
+
+
+all roles you have to do by creating a account.
+manage Instance, manage everything, deploy instances pay for what you use, cheaper.
+
+cloud administrator
+
+where is our roles as a linux guy?
+- even in cloud most of the virtual infrastructure will be in linux bcoz of security reasons.
+If you host website ex:: through GoDaddy , they mostly will be in hosted in Linux env/os
+
+
+In the next session we will talk about Course curriculum:
+
+
+Follow vedio description for github link for notes
+
+
+Please do like and subscribe the channel and keep on learning!!!
+

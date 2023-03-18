@@ -1,0 +1,56 @@
+Operating system::
+
+
+What is an Operating system?
+- An OS is an interface between user and computer hardware.
+
+
+for ex::
+user understands eng.language but machine knows only binary language.
+
+So OS acts as mediator.
+
+It translates and allows you to interact with hardware.
+
+Types of OS::
+1)MSDOS-----Legacy/free Microsot dsik O/S. 
+              -cli 
+              -no multitask and no multiuser.
+
+
+2)MS-Windows 
+        -GUI(user friendly OS)
+        -Commercial,purchase 
+
+
+Now Linux people meanwhile::
+-------------------------
+1)unix OS
+    -1980
+    -by bellLab(AT & T)
+    -CLI 
+    -not free but powerful, secure 
+    -is a vendor specific, priority 
+    -for ex:: HP.Ux to use this u need HP server.
+
+
+2) Linux 
+     -1990/1991
+     -by Linus Torvalds 
+     -Open Source kernel 
+     -CLI and GUI 
+     -is not a vendor priority, any server.
+
+In the next session we will discuss more about OS?
+
+
+
+
+
+
+
+
+
+
+
+

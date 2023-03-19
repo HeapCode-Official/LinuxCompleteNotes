@@ -1,0 +1,46 @@
+ Categories of OS
+
+  a)server       b)client
+
+
+1. Client OS :
+It is an operating system that operates within desktop. It is used to obtain services from a server. It run on the client devices like laptop, computer and is very simple operating system.
+
+2. Server OS :
+It is an operating system that is designed to be used on server. It is used to provide services to multiple client. It can serve multiple client at a time and is very advanced operating system.
+
+
+Summary::
+------------
+server means service provider
+client means accepting the service
+
+
+  in windows case::
+  -------------------
+server o/s                  client
+-----------                 -----------
+2000                        win 95
+2003                        win 98
+2008 R2                     ME
+2012 R2                     XP
+2016                        vista
+2019                        win7,8,8.1,10.....
+
+=>in server we will have
+many protocols to communicate
+ex:: http,ftp,dns,dhcp,tftp,smtp,imap
+
+=>what is protocol
+-is one peice of s/w bounded with some set of rules and regulations.
+-it will carry data from one place to another.
+
+our server willl be having so many protocols and these will be working on ports.
+ex:: we install httpd to make it a web server working with http protocol.
+
+
+In the next session we will talk about the difference between client and server O/S
+
+Follow the git hub link for the notes in video description:
+
+Please Subscribe the channel for more updates and keep on learning!!!!

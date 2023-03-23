@@ -29,7 +29,7 @@ a)Monolithic kernel :
 
 b) Micro Kernel 
   -in this kernel, all non-essential components are moved from kernel space to user space.
-  (ex:: ipc,device drivers,file server,unix server )
+  (ex:: ,device drivers,file server,unix server )
   -only essential components/function such as interProcess communication(IPC), memory management and scheduling are included in kernel space.
   -smaller in size ,slow in execution
   -debugging is easy
@@ -38,6 +38,10 @@ b) Micro Kernel
 
 
 =>Nowadays we also have hybrid kernel , combination of mono+micro kernel
+
+Follow the git hub link for the notes in video description:
+
+Please Subscribe the channel for more updates and keep on learning!!!!
 
 
 

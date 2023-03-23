@@ -1,0 +1,66 @@
+Difference between Server O/S and Client O/S
+
+1.
+Server OS can be used to provide services to multiple client.
+Client OS can obtain services from a server.
+
+
+2.
+Server OS can serve Multiple users at a time.
+Client OS serves a single user at a time.
+
+3.
+Server OS is complex OS.
+Client OS is simple OS.
+
+4.
+Server OS runs on the server.
+Client OS runs on the client devices like laptop,computer,etc...
+
+5.
+Server OS is an OS that is designed to be used on server.
+Client OS is an OS that operates within desktop.
+
+6.
+Server OS provides more security.
+Client OS provides less security.
+
+7.
+Server OS has greater processing power
+Client OS has less processing power.
+
+8.
+Server OS is more stable.
+Client  OS is less stable.
+
+9.
+Server OS is  more efficient 
+Client OS is less efficient.
+
+10. 
+Server OS ex: redhat, linux
+Client Os ex: windows 10,11,etc...
+
+
+In the next session we will talk about the basic architecture of OS
+
+Follow the git hub link for the notes in video description:
+
+Please Subscribe the channel for more updates and keep on learning!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

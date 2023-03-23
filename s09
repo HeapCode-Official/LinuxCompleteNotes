@@ -1,0 +1,56 @@
+Basic architecture of OS
+------------------------
+
+OS has two main components:
+a)Command interpreter (shell) 
+b)Kernel 
+
+
+Command interpreter (shell) 
+   -understands the commands by the users and based on that command instructs the kernel.
+
+
+kernel 
+  1. is a core component of OS which is responsible for doing everything in OS including handling and managing  memory management.file mgmt, device mgmt, I/O management , all servies mgmt. ...etc....
+  
+  2.It is an interface between user interface and hardware.
+
+
+
+**Kernel Types: 
+a)Monolithic kernel :
+   - all OS related components/services/functionalities are stuffed as single module in kernel space(ex: virtual memory mgmt, file system mgmt, device driver, cpu scheduling ,etc....)
+   - everything clubbed in kernel space 
+   - larger in size but faster execution
+   - difficult to debug 
+   - to add any new functionality/service the user has to modify the entire OS.
+   - if any security issue created, it can corrupt the entire OS...since all servioces are co-related.
+
+
+b) Micro Kernel 
+  -in this kernel, all non-essential components are moved from kernel space to user space.
+  (ex:: ipc,device drivers,file server,unix server )
+  -only essential components/function such as interProcess communication(IPC), memory management and scheduling are included in kernel space.
+  -smaller in size ,slow in execution
+  -debugging is easy
+  -adding feature/service/component is easy
+  -ex:: Windows NT, Mac OS
+
+
+=>Nowadays we also have hybrid kernel , combination of mono+micro kernel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

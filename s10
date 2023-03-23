@@ -1,0 +1,42 @@
+How to view kernel/system information in Linux
+----------------------------------------
+
+use uname command
+
+syntax::
+uname [options]
+
+1.uname -s 
+     -kernel name 
+
+
+2.uname -n 
+    -host name
+
+3.uname -r 
+     -kernel release date 
+
+4. uname -v 
+    -current kernel version
+
+5. uname -m 
+    -machine hardware name
+
+6. uname -p 
+    -type of processon 
+
+7. uname -o
+    -name of OS 
+
+8. uname -a 
+     -all above information 
+
+9. uname --help 
+    -for help n options
+
+
+Follow the git hub link for the notes in video description:
+
+Please Subscribe the channel for more updates and keep on learning!!!!
+
+     

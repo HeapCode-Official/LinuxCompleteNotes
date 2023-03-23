@@ -1,0 +1,22 @@
+How Linux Works
+-------------------
+
+kernel will manage some information
+Device info
+Multitasking info
+File system info
+
+=>this kernel can understand the shell languag and machine language.
+
+Process involved::
+user--->command---->shell---->kernel---->processor(CPU).
+Rsponse::
+processor------>kernel--->shell---->monitor.
+
+
+Note::shell is one interpreter
+
+in earlier we had shell
+SH (bourne shell), KSH,CSH
+Now
+we have Bash shells

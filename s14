@@ -1,0 +1,47 @@
+/var   
+-conatains variable and log data
+
+/var/log 
+       -conatins logging file, when u logged in,log out, what command u performed etc. all details
+
+/run
+ contains::
+ -reaqltime data
+ -running services
+ -last boot information 
+ -media
+
+
+/run/media/removable media
+ -ex info about pendrive,dvd,printer,hard disk etc.
+
+
+/dev
+ -contains device files
+  ex::device manager in windows--->identify device detected or not same here
+
+/mnt
+ -empty directory
+  use:: for ex i created one more partition in linux then to create any mount point in linux. you can use any other file here.
+
+
+/lib
+ -contains library files
+ - windows have .dll files running in background supporting windows OS same here
+
+
+/tmp
+-contains temporary files(junk files)
+ex:: while installing s/w some junk files created find here
+
+
+/srv
+ -server related information
+
+we have some 
+**Post symbolic links(shortcuts)::
+/bin --> /usr/bin
+/sbin--> /usr/sbin
+/lib--> /usr/lib
+etc.
+for quick access

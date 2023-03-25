@@ -1,0 +1,46 @@
+
+** File system hierarchy 
+----------------------------
+
+>in windows after booting it allocate/use 
+C for system files
+bcoz A,B is for floopy earlier.
+C- HDD
+so automatically one drive will be assigned.
+
+Note::
+we install OS in hard drive, by default it creates a disk/drive
+partition and stores data in C drive.
+
+so these are drive points in windows
+ where you store the data
+ in linux these are called mount points.
+
+ in linux we dont have drive-letter concept.windows have.
+
+ Q. then how are we going to store the data
+ under
+  / -top level directory/folder/root level directory/parent directory
+
+under this we store all the data.
+ this is file system Hierarchy.
+
+
+ /root 
+-home directory for root user 
+-provides default work env. for  root user
+
+/home
+-home directory for normal users
+-provides default work env. for normal users
+
+/home/ankit
+-home directory form atripathi user.
+
+/boot
+-contains all bootable files
+-contains bootloaders and etc.
+   ex:: bootloaders  Grub2 ->RHEL 7.0,8.0
+                     Grub-> RHEL 6.0
+    
+    Note:: inside these bootloader we will have kernel image. which will help in boot.

@@ -1,0 +1,53 @@
+/
+/root 
+/home 
+
+
+/etc
+  -contains all configuration files
+  for ex:: user configutaion, install web server & conf. find in /etc
+
+/bin
+  -normal user executable commands,not root users
+
+/sbin
+  -contains root user commands
+
+
+/usr
+  -contains all program files
+  -ex:: install any packages/ softwares u find files here
+
+/opt
+  -contains
+  third party program, optional for usr
+
+/proc
+   -full form process
+   -contain all background process
+   in windows task manager.
+   -can check cpu and memory information.
+
+   #cat /proc/cpuinfo
+          -gives cpu info
+   #cat /proc/meminfo
+        -gives RAM, swap info
+
+
+Q.what is swap??
+  -virtual ram
+  for ex:: you have 2 gb ram and you want 
+  better performance then swap allocate some virtual ram and then support ram . so better performance.
+
+
+Do Like and subscribe the channel and keep on watching!!!!
+
+
+
+
+
+
+
+
+
+

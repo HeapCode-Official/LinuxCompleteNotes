@@ -1,0 +1,35 @@
+Date Commands 
+------------------
+
+Date commands::
+-----------------
+ >date
+ >date --help
+ >date +%T
+ >date +%Y
+ >date +%B
+ >date +%D
+
+
+How to change system date::
+>date -s "yyyy-mm-dd hh:mm:ss"
+
+#date -s "2023-02-10 12:11:12"
+
+To clear screen
+>clear or ctrl +L
+
+
+date is outdated comand
+>timedatectl
+    >timedatectl set-time "2021-07-13 16:25:22" 
+    >timedatectl 
+    >timedatectl list-timezones 
+    >timedatectl set-timezone "Africa/Juba" 
+    >timedatectl <space1><space2>
+    >timedatectl status
+
+
+follow vedio description to download notes
+
+Do like and subscribe the channel and keep on learning

@@ -1,0 +1,49 @@
+How to Create file using cat command
+--------------------------------------
+
+**id command
+--------------
+-used to identify user
+-can be used to check whether user is available or not
+> id atripathi
+> id root
+--------------
+
+How to check terminal number::
+>tty
+----------------------------
+
+how to find which user i m looged in
+>whoami
+
+----------------------------------------------------
+how to know the history of commands:
+>history
+
+---------------------------------------------------
+cat command:
+
+>cat --help
+>man cat 
+   -used to concat the file and display output
+#cat>file1     ----to create file
+Hello and welcome to heapCode
+ctrl+d -----to save
+
+#cat>>file1  -------to append the file
+Hi This is me Ankit
+ctrl+d ---------save
+
+#cat file1 -------to see the file
+
+
+#cat>file2
+This is an experiment on technology
+
+#cat file1 file2>file3 
+desc:: file1 and file2 will be concatenated to a 
+    new file created file3
+
+#cat file3
+by default .txt extension
+>ls -l ------->to list all files created

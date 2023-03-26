@@ -1,0 +1,49 @@
+
+TOUCH COMMAND 
+-----------------
+
+Create file using touch command
+
+>stat file1
+
+touch command
+    -to change the timestamp of the file 
+    -creates 0 byte file(empty)
+
+    >touch f1 f2 f3 f4
+    >ll
+    >touch K{1..5}
+    > ls -l
+        see the timestamp
+
+to cahnge the timestamp of file::
+
+syntax:: 
+# touch -d "yyyy-mm-dd hh:mm:ss" file name
+
+
+ex:: #touch -d "2023-01-01 11:22:44" File1
+
+#ls -l
+
+why to cahnge then time stamp of file/directory
+=>some files in servers cannot synchronize bcoz of 
+different timesatmp so we need to match time to synchronize with server
+
+
+some options available 
+
+>touch -a  filename 
+     - changes access time of the file named Doc1.
+
+>touch -c filename 
+    - check if file is created or not, if not then create
+
+
+>stat file1
+
+>touch -m filename
+    - change only the modification time of a file.
+
+
+

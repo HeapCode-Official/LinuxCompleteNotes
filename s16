@@ -1,0 +1,38 @@
+**Commands 
+
+commands basic parts(3)
+----------------------
+ex::
+>cal            -y           2021
+[command]    [option]       [arguments]
+
+
+how to get help for commands
+>cal --help 
+
+but --help does not work for all so man command can help in this case
+
+>echo hello
+
+>echo $HOME 
+  HOME is env variable. this points to home directory of current user
+
+
+    sudo su  
+    pwd
+    cal 
+    cal --help 
+    cal -y 
+    cal --help 
+    cal 1999 
+    echo Hello 
+    echo $HOME 
+    pwd
+    cd Desktop/
+    echo $0
+    echo $BASH_VERSION 
+    history
+
+follow vedio description to download notes
+
+Do like and subscribe the channel and keep on learning

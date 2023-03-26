@@ -1,0 +1,35 @@
+more about terminal
+-------------------
+
+to open terminal
+--------------------
+ctrl+alt+t 
+
+ctrl+shift+-  ->to zoom out
+ctrl+ +  --->to zoom in
+
+----------------------------------
+in terminal we have prompt
+
+[atripathi@localhost~]$  ------->prompt
+
+Description::
+atripathi --with this user im logged in
+localhost ---my machine
+~  -->current user home directory
+/home/atripathi
+
+How to switch user::
+$ su -root
+
+[root@localhost~]#
+
+login as root user
+~  -->root user home directory i.e. root
+#  -->indicates root/super 
+
+prompt syntax::
+[username@hostname~]$or#
+
+
+ankit@ankit-HP-Laptop-15s-eq2xxx:~

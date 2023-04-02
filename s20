@@ -1,0 +1,30 @@
+Create directories in Linux 
+---------------------------
+
+>mkdir dir1 dir2 dir3
+>ls -l
+>mkdir d{1..4}
+
+
+
+How to install and remove tree package
+sudo apt install tree
+sudo apt-get --purge remove tree
+
+-tree command can be used to view dir structure clearly
+
+>mkdir --help 
+>mkdir -v <directories> 
+creating child directories  (p parent)
+#mkdir -p L1/L2/L3
+ or
+ mkdir -p -v L1/L2/L3
+
+
+to view recursively
+>ls -R L1
+
+
+ giving permission to directories
+ mkdir -m a=rwx [directories] 
+            -to all user rwx

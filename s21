@@ -1,0 +1,23 @@
+cd commands in Linux
+--------------------------
+
+cd command  (change directory)
+>mkdir Linux
+>cd Linux
+>pwd
+>ls -l
+
+>cd ..
+    -one dir back
+
+>cd ../..
+     -two dir back
+
+>cd OR cd~
+    -to go to home directory
+
+
+>cd /home/atripathi/
+      -using absolute path
+
+>ls -l

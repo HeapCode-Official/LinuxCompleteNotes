@@ -1,0 +1,45 @@
+copy commands::(cp)  copy&paste
+
+#cat>file1
+Hello 
+(ctrl+d)--to save
+#cat>file2
+Hi
+(ctrl+d)
+
+>cat file1
+>cat file2
+
+> cp file1 file2
+         -overides content of file2 with file1
+
+>cat file1
+>cat file2
+
+>cp file1 new1
+         -creates new file and copy file1 data
+
+>cp file dir1
+      -copy file to directory
+
+verify 
+>cd dir1
+>cd 
+>ls -l dir1
+>tree dir1
+
+>cp dir1 dir2
+         -copying dir to dir error dir1 has content
+
+fix::
+>cp -rvf dir1 dir2
+    desc::
+     r - recursively(mandatory) 
+     v- verbose prints warning message(optional)
+     f- forcefully(optional)
+
+
+
+>ls -l dir2
+>tree dir2
+
